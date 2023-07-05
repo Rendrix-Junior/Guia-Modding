@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguia_modding=self.webpackChunkguia_modding||[]).push([[5595],{3174:o=>{o.exports=JSON.parse('{"permalink":"/Guia-Modding/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

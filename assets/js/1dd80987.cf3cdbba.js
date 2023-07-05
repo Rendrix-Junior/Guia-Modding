@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkguia_modding=self.webpackChunkguia_modding||[]).push([[5452],{3125:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/Guia-Modding/blog/tags/facebook","allTagsPath":"/Guia-Modding/blog/tags","count":1}')}}]);
