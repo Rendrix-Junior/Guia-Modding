@@ -26,6 +26,12 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
+Using SSH on Windows:
+
+```
+$ cmd /C "set "USE_SSH=true" && yarn deploy"
+```
+
 Using SSH:
 
 ```
